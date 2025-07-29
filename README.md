@@ -1,3 +1,9 @@
+WEBSITE URL:  https://rico20077551.github.io/TECH-ALCHEMIST-SKIN-AI-DIAGNOSIS/
+
+
+
+
+
 # 🧠 Skin Lesion Classification Using a Hybrid CNN + Clinical Metadata Model
 
 > Leveraging **medical domain knowledge** and **deep learning** for accurate skin lesion classification using dermoscopic images and patient metadata (age, sex, anatomical site).
