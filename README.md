@@ -20,11 +20,7 @@ WEBSITE URL:  https://rico20077551.github.io/TECH-ALCHEMIST-SKIN-AI-DIAGNOSIS/
 6. [Experiments & Results](#experiments--results)
 7. [Visualization](#visualization)
 8. [Grad-CAM Explainability](#grad-cam-explainability)
-9. [Project Structure](#project-structure)
-10. [How to Run](#how-to-run)
-11. [Requirements](#requirements)
-12. [Acknowledgements](#acknowledgements)
-13. [License](#license)
+9. [License](#license)
 
 ---
 
